@@ -25,6 +25,7 @@ namespace Lab01_ChatClients
 
         static async Task Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             Console.Title = "TCP Chat Server";
 
             // Khôi phục lịch sử chat từ file JSON
