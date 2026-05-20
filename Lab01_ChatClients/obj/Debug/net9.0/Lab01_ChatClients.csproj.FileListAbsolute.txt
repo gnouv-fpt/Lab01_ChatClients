@@ -1,0 +1,14 @@
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\bin\Debug\net9.0\Lab01_ChatClients.exe
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\bin\Debug\net9.0\Lab01_ChatClients.deps.json
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\bin\Debug\net9.0\Lab01_ChatClients.runtimeconfig.json
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\bin\Debug\net9.0\Lab01_ChatClients.dll
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\bin\Debug\net9.0\Lab01_ChatClients.pdb
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.AssemblyInfoInputs.cache
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.AssemblyInfo.cs
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.csproj.CoreCompileInputs.cache
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.dll
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\refint\Lab01_ChatClients.dll
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.pdb
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\Lab01_ChatClients.genruntimeconfig.cache
+E:\Code_C#\Lab01_ChatClients\Lab01_ChatClients\obj\Debug\net9.0\ref\Lab01_ChatClients.dll
